@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A teenager who is trying to get into ML or Cybersec</h3>
 
-- 🌱 I’m currently learning **AI/ML and Cybersecurity**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prolol100/](https://github.com/Prolol100/)
 
